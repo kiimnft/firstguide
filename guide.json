@@ -1,0 +1,78 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "facebook",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Beginner Tips",
+        "image": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "Beginner guide along with a big Ranch Sim Map (may contain spoilers).\n\nHatching Eggs:\n\n-Hens lay fertilized eggs at 10am and normal eggs at between 4pm and 4:30pm.\n-Eggs take 3 days to hatch into chicks.\n-Eggs hatch at 8am.\n-Chicks take 5 days to become a rooster or hen.\n\n\nHunting:\n\nAll wild animals you kill create Wild Meat (you get other meats from animals you raise at your ranch, Pork, Beef and Chickens).\n\n\nMilking Cows:\n\nYou can milk your cows at 8am and again at 4pm.\n\n\nSelling:\n\nTry to sell all food items at the burger restaurant (across the street from car dealer). Go into the back door and you will see a menu board with the days specials listed as well as a price multiplier. Try to sell things on special to get the best money\n\nHunters meat wagon (not needed as much now (due to coolers) but early game it helps a ton):\n\nYou can add extra storage space to the UTV…\nStart by adding planks to the outer edges of rack, front of plank goes on the front rack bar…\nThen add planks into the middle section…\nYou end up with a great meat wagon.\n\n\nRanch Sim Big Map (clean):\n\nBelow is a enlarged image of the game map. No extra marks on map.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "The Old 2",
+        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Call of Cthulhu: Wasted Land ",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#000000"
+      }
+    ]
+
+  }
+}
