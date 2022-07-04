@@ -1,0 +1,78 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "facebook",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "781989492955397_781990376288642",
+        "InterstitialFacebook": "781989492955397_781991242955222",
+        "NativeFacebook": "781989492955397_781991442955202",
+        "NativeFacebookSingle": "781989492955397_781991692955177",
+		
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Beginner Tips",
+        "image": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "color": "#FFFFFF",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "Get Coins",
+		"setLink": "",
+        "image_link": "",
+        "text": "Beginner guide along with a big Ranch Sim Map (may contain spoilers).\n\nHatching Eggs:\n\n-Hens lay fertilized eggs at 10am and normal eggs at between 4pm and 4:30pm.\n-Eggs take 3 days to hatch into chicks.\n-Eggs hatch at 8am.\n-Chicks take 5 days to become a rooster or hen.\n\n\nHunting:\n\nAll wild animals you kill create Wild Meat (you get other meats from animals you raise at your ranch, Pork, Beef and Chickens).\n\n\nMilking Cows:\n\nYou can milk your cows at 8am and again at 4pm.\n\n\nSelling:\n\nTry to sell all food items at the burger restaurant (across the street from car dealer). Go into the back door and you will see a menu board with the days specials listed as well as a price multiplier. Try to sell things on special to get the best money\n\nHunters meat wagon (not needed as much now (due to coolers) but early game it helps a ton):\n\nYou can add extra storage space to the UTV…\nStart by adding planks to the outer edges of rack, front of plank goes on the front rack bar…\nThen add planks into the middle section…\nYou end up with a great meat wagon.\n\n\nRanch Sim Big Map (clean):\n\nBelow is a enlarged image of the game map. No extra marks on map.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "How to Build Advance Fences",
+        "image": "https://steamah.com/wp-content/uploads/2021/03/1615018182.jpg",
+		"color": "#FFFFFF",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For Ranch Simulator players, if you are trting to build fences for a larger area of animals, this guide will explain how to build advance fences, let’s check it out.\n\n1. Place log.\n2. Stack to animal step height.\n3. Repeat.\n\n\nBuilder. Farmer. Hunter. Trader. Ranching certainly isn’t your average job. Think you have the skills to turn your family’s rundown homestead into the most prosperous ranch in the valley? Then it’s time to head out into the wilderness in this captivating single and multiplayer open-world simulator.",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "How to Raise Chickens and Grow the Family",
+        "image": "https://steamah.com/wp-content/uploads/2021/03/1615019078-1.jpg",
+		"color": "#FFFFFF",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For Ranch Simulator players, if you are tyring to raise chickens, this guide will explain how and helps you to grow the family, let’s check it out.\n\n\n1.Buy a hen, rooster, and an ovoscope.\n\n2.Place hen and rooster in coop.\n\n3.Collect eggs, if they are fertile momma attacks!!!!!!\n\n4.Also can check all eggs with the ovoscope.\nLeft is not fertile and right is fertile.\n\n5.Wait about 5 days (i lost count) and pick up the chick!!!!!!!",
+        "isNative": false,
+		"background": "#000000"
+      },
+      {
+        "title": "Make Money Fast",
+        "image": "https://steamah.com/wp-content/uploads/2021/03/1615018783.jpg",
+		"color": "#FFFFFF",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For Ranch Simulator players, if you want to make some money fast, this guide provides a method to let to earn some cash, let’s check it out.\n\n\nIf you have money problems you can hunt bears in the south of the map.\n1. Buy ammunition for your pistol.\n2. Drive to the south of the map.\n3.Hunt bears and skins (kite them to your vehicle).\n4. Sell the meat.\n5. Finally, you buy pigs for $ 300 and later sell them for $ 700.",
+        "isNative": false,
+		"background": "#000000"
+      }
+    ]
+
+  }
+}
