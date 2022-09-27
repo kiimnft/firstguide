@@ -1,0 +1,164 @@
+{
+  "Data": {
+    "AdsController": 
+      {
+        "ONESIGNAL_APP_ID": "8c8f391f-01a7-4514-a89e-9624c96d083d",
+        "ShowAds": true,
+        "NetworkAds": "max",
+
+        "BannerMax": "bfed0e2343ec67c0",
+        "InterstitialMax": "7d8d5ffd7cc4c3b8",
+        "NativeMax_medium": "695b57c6749e62f6",
+        "NativeMax_small": "36c315dc388591fb",
+        "MercMax": "d78a34ef1e6b1d15",
+
+        "NativeFacebook": "781989492955397_781991442955202",
+        "addFixedPosition": 1,
+        "setRepeatingInterval": 4,
+        "Fb_Native_DISPLAY_FREQUENCY": 4
+		
+      },
+
+    "menu1": [
+      {
+        "title": "Beginner Tips",
+        "image1": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "How to Build Advance Fences",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615018182.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "How to Raise Chickens and Grow the Family",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615019078-1.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "Make Money Fast",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615018783.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      }
+    ],
+
+    "menu2": [
+      {
+        "title": "Beginner mods",
+        "image1": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "How to Build Advance Fences",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615018182.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "How to Raise Chickens and Grow the Family",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615019078-1.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "Make Money Fast",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615018783.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      }
+    ],
+
+    "menu3": [
+      {
+        "title": "Beginner skins",
+        "image1": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "How to Build Advance Fences",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615018182.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "How to Raise Chickens and Grow the Family",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615019078-1.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      },
+      {
+        "title": "Make Money Fast",
+        "image1": "https://steamah.com/wp-content/uploads/2021/03/1615018783.jpg",
+        "image2": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "image3": "https://gameplay.tips/wp-content/uploads/2021/10/1620186693_ranch-simulator.jpg",
+        "text1": "Get text1",
+        "text2": "Get text2",
+        "isLink": false,
+		    "link_title": "Get ",
+		    "setLink": ""
+      }
+    ]
+
+  }
+}
